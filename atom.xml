@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Satoshi&#39;s website</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://satoshi-ejima.github.io/"/>
+  <updated>2020-03-29T19:37:17.443Z</updated>
+  <id>https://satoshi-ejima.github.io/</id>
+  
+  <author>
+    <name>Satoshi Ejima</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Welcome!</title>
+    <link href="https://satoshi-ejima.github.io/2020/03/29/hello-world/"/>
+    <id>https://satoshi-ejima.github.io/2020/03/29/hello-world/</id>
+    <published>2020-03-29T19:37:17.443Z</published>
+    <updated>2020-03-29T19:37:17.443Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to the website of Satoshi Ejima!</p><br /><br /><br /><h2 id="Affiliation"><a href="#Affiliation" class="headerlink" title="Affiliation"></a>Affiliation</h2><p>Institut für Physik<br>Universität Greifswald<br>D-17489 Greifswald<br>Germany</p><br /><br /><h2 id="Further-affiliation"><a href="#Further-affiliation" class="headerlink" title="Further affiliation"></a>Further affiliation</h2><p>Computational Condensed Matter Physics Laboratory<br>RIKEN Cluster for Pioneering Research (CPR)<br>Wako, Saitama 351-0198, Japan</p><!--Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).## Quick Start### Create a new post<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a><br>–&gt;</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to the website of Satoshi Ejima!&lt;/p&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+
+
+
+&lt;h2 id=&quot;Affiliation&quot;&gt;&lt;a href=&quot;#Affiliation&quot; class=&quot;headerlink&quot; title
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
