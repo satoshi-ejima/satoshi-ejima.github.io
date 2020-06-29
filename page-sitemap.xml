@@ -8,6 +8,13 @@
     </url>
     
     <url>
+        <loc>https://satoshi-ejima.github.io/Publications/</loc>
+        <lastmod>2020-06-29T11:46:19.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
         <loc>https://satoshi-ejima.github.io/Contact/</loc>
         <lastmod>2020-04-12T22:50:41.370Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -17,13 +24,6 @@
     <url>
         <loc>https://satoshi-ejima.github.io/CV/</loc>
         <lastmod>2020-03-29T19:44:11.058Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>https://satoshi-ejima.github.io/Publications/</loc>
-        <lastmod>2020-03-29T19:28:27.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
